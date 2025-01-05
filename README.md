@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyash Bartwal</h1>
-<h3 align="center">Exploring the world of tech.</h3>
+<h3 align="center"></h3>
 
 <p align="left">
 </p>
